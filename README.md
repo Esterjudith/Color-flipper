@@ -2,6 +2,8 @@
 Easy front-end vanilla javascript project for memory-recall and fun. 
 When button is clicked background color randomly change to different hex colors. 
 
+**Link to project:** https://colorflipperweb.netlify.app/
+
 ![image](https://user-images.githubusercontent.com/106325339/197262996-c443e31c-56b5-4c81-99a4-aee617ef4a0c.png)
 
 #How It's Made:
